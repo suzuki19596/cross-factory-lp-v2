@@ -1384,6 +1384,10 @@ button {
         display: none;
     }
 
+    .header-actions {
+        display: none;
+    }
+
     .hamburger {
         display: flex;
     }
@@ -1430,6 +1434,15 @@ button {
     .header-inner {
         padding: 0 15px;
         height: 60px;
+    }
+
+    .logo-text {
+        font-size: 1.1rem;
+        white-space: nowrap;
+    }
+
+    .logo-sub {
+        font-size: 0.5rem;
     }
 
     .hero {
